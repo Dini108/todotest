@@ -7,7 +7,7 @@ Futtatáshoz szükséges parancsok:
 (A projekt klónozása)
 
 `cd todotest` 
-(Projekt győkér mappájába jutás)
+(Projekt gyökér mappájába jutás)
 
 `composer install`
 (Composer dependenciák telepítése)
